@@ -1,0 +1,10 @@
+D:\Kamrul BG pj\vb 2008 Number Taka 50 not ok\Number_Taka\bin\Release\Number_Taka.exe
+D:\Kamrul BG pj\vb 2008 Number Taka 50 not ok\Number_Taka\bin\Release\Number_Taka.pdb
+D:\Kamrul BG pj\vb 2008 Number Taka 50 not ok\Number_Taka\bin\Release\Number_Taka.xml
+D:\Kamrul BG pj\vb 2008 Number Taka 50 not ok\Number_Taka\obj\Release\ResolveAssemblyReference.cache
+D:\Kamrul BG pj\vb 2008 Number Taka 50 not ok\Number_Taka\obj\Release\WindowsApplication1.Form1.resources
+D:\Kamrul BG pj\vb 2008 Number Taka 50 not ok\Number_Taka\obj\Release\WindowsApplication1.Resources.resources
+D:\Kamrul BG pj\vb 2008 Number Taka 50 not ok\Number_Taka\obj\Release\Number_Taka.vbproj.GenerateResource.Cache
+D:\Kamrul BG pj\vb 2008 Number Taka 50 not ok\Number_Taka\obj\Release\Number_Taka.exe
+D:\Kamrul BG pj\vb 2008 Number Taka 50 not ok\Number_Taka\obj\Release\Number_Taka.xml
+D:\Kamrul BG pj\vb 2008 Number Taka 50 not ok\Number_Taka\obj\Release\Number_Taka.pdb

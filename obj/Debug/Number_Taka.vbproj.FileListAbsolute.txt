@@ -1,0 +1,100 @@
+D:\Kamrul BG pj\Number_Taka\Number_Taka\bin\Debug\Number_Taka.exe
+D:\Kamrul BG pj\Number_Taka\Number_Taka\bin\Debug\Number_Taka.pdb
+D:\Kamrul BG pj\Number_Taka\Number_Taka\bin\Debug\Number_Taka.xml
+D:\Kamrul BG pj\Number_Taka\Number_Taka\obj\Debug\ResolveAssemblyReference.cache
+D:\Kamrul BG pj\Number_Taka\Number_Taka\obj\Debug\WindowsApplication1.Form1.resources
+D:\Kamrul BG pj\Number_Taka\Number_Taka\obj\Debug\WindowsApplication1.Resources.resources
+D:\Kamrul BG pj\Number_Taka\Number_Taka\obj\Debug\Number_Taka.vbproj.GenerateResource.Cache
+D:\Kamrul BG pj\Number_Taka\Number_Taka\obj\Debug\Number_Taka.exe
+D:\Kamrul BG pj\Number_Taka\Number_Taka\obj\Debug\Number_Taka.xml
+D:\Kamrul BG pj\Number_Taka\Number_Taka\obj\Debug\Number_Taka.pdb
+D:\Kamrul BG pj\vb 2008 Number Taka 10\Number_Taka\obj\Debug\Number_Taka.exe
+D:\Kamrul BG pj\vb 2008 Number Taka 10\Number_Taka\obj\Debug\Number_Taka.xml
+D:\Kamrul BG pj\vb 2008 Number Taka 10\Number_Taka\obj\Debug\Number_Taka.pdb
+D:\Kamrul BG pj\vb 2008 Number Taka 10\Number_Taka\bin\Debug\Number_Taka.exe
+D:\Kamrul BG pj\vb 2008 Number Taka 10\Number_Taka\bin\Debug\Number_Taka.pdb
+D:\Kamrul BG pj\vb 2008 Number Taka 10\Number_Taka\bin\Debug\Number_Taka.xml
+D:\Kamrul BG pj\vb 2008 Number Taka 10\Number_Taka\obj\Debug\ResolveAssemblyReference.cache
+D:\Kamrul BG pj\vb 2008 Number Taka 10\Number_Taka\obj\Debug\WindowsApplication1.Form1.resources
+D:\Kamrul BG pj\vb 2008 Number Taka 10\Number_Taka\obj\Debug\WindowsApplication1.Resources.resources
+D:\Kamrul BG pj\vb 2008 Number Taka 10\Number_Taka\obj\Debug\Number_Taka.vbproj.GenerateResource.Cache
+F:\kamrul code\vb 2008 Number Taka 20 ok\Number_Taka\obj\Debug\Number_Taka.exe
+F:\kamrul code\vb 2008 Number Taka 20 ok\Number_Taka\obj\Debug\Number_Taka.xml
+F:\kamrul code\vb 2008 Number Taka 20 ok\Number_Taka\obj\Debug\Number_Taka.pdb
+F:\kamrul code\vb 2008 Number Taka 20 ok\Number_Taka\bin\Debug\Number_Taka.exe
+F:\kamrul code\vb 2008 Number Taka 20 ok\Number_Taka\bin\Debug\Number_Taka.pdb
+F:\kamrul code\vb 2008 Number Taka 20 ok\Number_Taka\bin\Debug\Number_Taka.xml
+F:\kamrul code\vb 2008 Number Taka 20 ok\Number_Taka\obj\Debug\ResolveAssemblyReference.cache
+F:\kamrul code\vb 2008 Number Taka 20 ok\Number_Taka\obj\Debug\WindowsApplication1.Form1.resources
+F:\kamrul code\vb 2008 Number Taka 20 ok\Number_Taka\obj\Debug\WindowsApplication1.Resources.resources
+F:\kamrul code\vb 2008 Number Taka 20 ok\Number_Taka\obj\Debug\Number_Taka.vbproj.GenerateResource.Cache
+D:\Kamrul BG pj\vb 2008 Number Taka 30 ok\Number_Taka\obj\Debug\Number_Taka.exe
+D:\Kamrul BG pj\vb 2008 Number Taka 30 ok\Number_Taka\obj\Debug\Number_Taka.xml
+D:\Kamrul BG pj\vb 2008 Number Taka 30 ok\Number_Taka\obj\Debug\Number_Taka.pdb
+D:\Kamrul BG pj\vb 2008 Number Taka 30 ok\Number_Taka\bin\Debug\Number_Taka.exe
+D:\Kamrul BG pj\vb 2008 Number Taka 30 ok\Number_Taka\bin\Debug\Number_Taka.pdb
+D:\Kamrul BG pj\vb 2008 Number Taka 30 ok\Number_Taka\bin\Debug\Number_Taka.xml
+D:\Kamrul BG pj\vb 2008 Number Taka 30 ok\Number_Taka\obj\Debug\ResolveAssemblyReference.cache
+D:\Kamrul BG pj\vb 2008 Number Taka 30 ok\Number_Taka\obj\Debug\WindowsApplication1.Form1.resources
+D:\Kamrul BG pj\vb 2008 Number Taka 30 ok\Number_Taka\obj\Debug\WindowsApplication1.Resources.resources
+D:\Kamrul BG pj\vb 2008 Number Taka 30 ok\Number_Taka\obj\Debug\Number_Taka.vbproj.GenerateResource.Cache
+D:\Kamrul BG pj\vb 2008 Number Taka 50 not ok\Number_Taka\obj\Debug\Number_Taka.exe
+D:\Kamrul BG pj\vb 2008 Number Taka 50 not ok\Number_Taka\obj\Debug\Number_Taka.xml
+D:\Kamrul BG pj\vb 2008 Number Taka 50 not ok\Number_Taka\obj\Debug\Number_Taka.pdb
+D:\Kamrul BG pj\vb 2008 Number Taka 50 not ok\Number_Taka\obj\Debug\ResolveAssemblyReference.cache
+D:\Kamrul BG pj\vb 2008 Number Taka 50 not ok\Number_Taka\obj\Debug\WindowsApplication1.Form1.resources
+D:\Kamrul BG pj\vb 2008 Number Taka 50 not ok\Number_Taka\obj\Debug\WindowsApplication1.Resources.resources
+D:\Kamrul BG pj\vb 2008 Number Taka 50 not ok\Number_Taka\obj\Debug\Number_Taka.vbproj.GenerateResource.Cache
+D:\Kamrul BG pj\vb 2008 Number Taka 50 not ok\Number_Taka\bin\Debug\Number_Taka.exe
+D:\Kamrul BG pj\vb 2008 Number Taka 50 not ok\Number_Taka\bin\Debug\Number_Taka.pdb
+D:\Kamrul BG pj\vb 2008 Number Taka 50 not ok\Number_Taka\bin\Debug\Number_Taka.xml
+D:\Kamrul BG pj\vb 2008 Number Taka 100 OK ok\Number_Taka\obj\Debug\Number_Taka.exe
+D:\Kamrul BG pj\vb 2008 Number Taka 100 OK ok\Number_Taka\obj\Debug\Number_Taka.xml
+D:\Kamrul BG pj\vb 2008 Number Taka 100 OK ok\Number_Taka\obj\Debug\Number_Taka.pdb
+D:\Kamrul BG pj\vb 2008 Number Taka 100 OK ok\Number_Taka\bin\Debug\Number_Taka.exe
+D:\Kamrul BG pj\vb 2008 Number Taka 100 OK ok\Number_Taka\bin\Debug\Number_Taka.pdb
+D:\Kamrul BG pj\vb 2008 Number Taka 100 OK ok\Number_Taka\bin\Debug\Number_Taka.xml
+D:\Kamrul BG pj\vb 2008 Number Taka 100 OK ok\Number_Taka\obj\Debug\ResolveAssemblyReference.cache
+D:\Kamrul BG pj\vb 2008 Number Taka 100 OK ok\Number_Taka\obj\Debug\WindowsApplication1.Form1.resources
+D:\Kamrul BG pj\vb 2008 Number Taka 100 OK ok\Number_Taka\obj\Debug\WindowsApplication1.Resources.resources
+D:\Kamrul BG pj\vb 2008 Number Taka 100 OK ok\Number_Taka\obj\Debug\Number_Taka.vbproj.GenerateResource.Cache
+D:\Kamrul BG pj\vb 2008 Number Taka 200 OK NOT\Number_Taka\obj\Debug\Number_Taka.exe
+D:\Kamrul BG pj\vb 2008 Number Taka 200 OK NOT\Number_Taka\obj\Debug\Number_Taka.xml
+D:\Kamrul BG pj\vb 2008 Number Taka 200 OK NOT\Number_Taka\obj\Debug\Number_Taka.pdb
+D:\Kamrul BG pj\vb 2008 Number Taka 200 OK NOT\Number_Taka\bin\Debug\Number_Taka.exe
+D:\Kamrul BG pj\vb 2008 Number Taka 200 OK NOT\Number_Taka\bin\Debug\Number_Taka.pdb
+D:\Kamrul BG pj\vb 2008 Number Taka 200 OK NOT\Number_Taka\bin\Debug\Number_Taka.xml
+D:\Kamrul BG pj\vb 2008 Number Taka 200 OK NOT\Number_Taka\obj\Debug\ResolveAssemblyReference.cache
+D:\Kamrul BG pj\vb 2008 Number Taka 200 OK NOT\Number_Taka\obj\Debug\WindowsApplication1.Form1.resources
+D:\Kamrul BG pj\vb 2008 Number Taka 200 OK NOT\Number_Taka\obj\Debug\WindowsApplication1.Resources.resources
+D:\Kamrul BG pj\vb 2008 Number Taka 200 OK NOT\Number_Taka\obj\Debug\Number_Taka.vbproj.GenerateResource.Cache
+D:\Kamrul BG pj\vb 2008 Number Taka 500 OK NOT\Number_Taka\obj\Debug\Number_Taka.exe
+D:\Kamrul BG pj\vb 2008 Number Taka 500 OK NOT\Number_Taka\obj\Debug\Number_Taka.xml
+D:\Kamrul BG pj\vb 2008 Number Taka 500 OK NOT\Number_Taka\obj\Debug\Number_Taka.pdb
+D:\Kamrul BG pj\vb 2008 Number Taka 500 OK NOT\Number_Taka\bin\Debug\Number_Taka.exe
+D:\Kamrul BG pj\vb 2008 Number Taka 500 OK NOT\Number_Taka\bin\Debug\Number_Taka.pdb
+D:\Kamrul BG pj\vb 2008 Number Taka 500 OK NOT\Number_Taka\bin\Debug\Number_Taka.xml
+D:\Kamrul BG pj\vb 2008 Number Taka 500 OK NOT\Number_Taka\obj\Debug\ResolveAssemblyReference.cache
+D:\Kamrul BG pj\vb 2008 Number Taka 500 OK NOT\Number_Taka\obj\Debug\WindowsApplication1.Form1.resources
+D:\Kamrul BG pj\vb 2008 Number Taka 500 OK NOT\Number_Taka\obj\Debug\WindowsApplication1.Resources.resources
+D:\Kamrul BG pj\vb 2008 Number Taka 500 OK NOT\Number_Taka\obj\Debug\Number_Taka.vbproj.GenerateResource.Cache
+D:\Kamrul BG pj\vb 2008 Number Taka 600 OK NOT\Number_Taka\obj\Debug\Number_Taka.exe
+D:\Kamrul BG pj\vb 2008 Number Taka 600 OK NOT\Number_Taka\obj\Debug\Number_Taka.xml
+D:\Kamrul BG pj\vb 2008 Number Taka 600 OK NOT\Number_Taka\obj\Debug\Number_Taka.pdb
+D:\Kamrul BG pj\vb 2008 Number Taka 600 OK NOT\Number_Taka\bin\Debug\Number_Taka.exe
+D:\Kamrul BG pj\vb 2008 Number Taka 600 OK NOT\Number_Taka\bin\Debug\Number_Taka.pdb
+D:\Kamrul BG pj\vb 2008 Number Taka 600 OK NOT\Number_Taka\bin\Debug\Number_Taka.xml
+D:\Kamrul BG pj\vb 2008 Number Taka 600 OK NOT\Number_Taka\obj\Debug\ResolveAssemblyReference.cache
+D:\Kamrul BG pj\vb 2008 Number Taka 600 OK NOT\Number_Taka\obj\Debug\WindowsApplication1.Form1.resources
+D:\Kamrul BG pj\vb 2008 Number Taka 600 OK NOT\Number_Taka\obj\Debug\WindowsApplication1.Resources.resources
+D:\Kamrul BG pj\vb 2008 Number Taka 600 OK NOT\Number_Taka\obj\Debug\Number_Taka.vbproj.GenerateResource.Cache
+C:\Users\kamfuj\Desktop\Number_Taka\obj\Debug\Number_Taka.exe
+C:\Users\kamfuj\Desktop\Number_Taka\obj\Debug\Number_Taka.xml
+C:\Users\kamfuj\Desktop\Number_Taka\obj\Debug\Number_Taka.pdb
+C:\Users\kamfuj\Desktop\Number_Taka\bin\Debug\Number_Taka.exe
+C:\Users\kamfuj\Desktop\Number_Taka\bin\Debug\Number_Taka.pdb
+C:\Users\kamfuj\Desktop\Number_Taka\bin\Debug\Number_Taka.xml
+C:\Users\kamfuj\Desktop\Number_Taka\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kamfuj\Desktop\Number_Taka\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\kamfuj\Desktop\Number_Taka\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\kamfuj\Desktop\Number_Taka\obj\Debug\Number_Taka.vbproj.GenerateResource.Cache
