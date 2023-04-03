@@ -1,2 +1,2 @@
 # admin
-currency in figure convert to currency in word
+convert Taka in figure to Taka in word
